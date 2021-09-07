@@ -1,0 +1,11 @@
+split the words based on vowels 
+[['Th', 's'], ['', 's'], ['', ''], ['s', 'mpl', ''], ['f', 'l', ''], ['T', ''], ['T', 'g', 'th', 'r'], ['l', 'k', 'ng'], ['T', ''], ['Th', 's'], ['th', 's'], ['Th', 't'], ['Th', 's'], ['', ''], ['', 's', 'd'], ['f', 'r'], ['m', '', 'w', 'ng'], ['f', 'l', ''], ['h', 'ndl', 'ng'], ['T', 'mm', 'r', 'w'], ['', ''], ['', 'm'], ['g', '', 'ng'], ['T', ''], ['', 's', ''], ['d', 'ff', 'r', 'nt'], ['', 'll', 'w', 'ng'], ['f', 'l', ''], ['m', 't', 'm', ''], ['', 'nt', 'r', 'st', 'ng'], ['m', 'l', 'y', 'l', 'm'], ['c', 'm', 'c'], ['Th', 's']]
+
+ Capitalize every 3rd letter in the words 
+['ThIs', 'is', 'a', 'sample', 'file', 'To', 'Together', 'liking', 'To', 'This', 'this', 'That', 'This', 'i', 'used', 'for', 'meowing', 'file', 'handling', 'Tommorow', 'i', 'am', 'going', 'To', 'use', 'different', 'allowing', 'file', 'matoma', 'interesting', 'malayalam', 'comoc', 'This']
+
+ Capitalize the 5th word in the file 
+['This', 'is', 'a', 'sample', 'FILE', 'To', 'Together', 'liking', 'To', 'This', 'this', 'That', 'This', 'i', 'used', 'for', 'meowing', 'file', 'handling', 'Tommorow', 'i', 'am', 'going', 'To', 'use', 'different', 'allowing', 'file', 'matoma', 'interesting', 'malayalam', 'comoc', 'This']
+
+ Replacing the space with - and new line with ; 
+This-is-a-sample-file-To-Together-liking-To;This-this-That-This-i-used-for-meowing-file-handling-Tommorow-i-am-going-To-use-different-allowing;file-matoma-interesting-malayalam;comoc-This

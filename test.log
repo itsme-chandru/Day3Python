@@ -1,0 +1,12 @@
+2021-09-07 11:32:19 INFO-The file is taken as a input argument
+2021-09-07 11:32:19 INFO-The Class object is created
+2021-09-07 11:32:19 INFO-The child class constructor is called
+2021-09-07 11:32:19 INFO-Parent class constructor is called
+2021-09-07 11:32:19 INFO-The readfile function starts and the data is read
+2021-09-07 11:32:19 INFO-Starting the Do operations class 
+2021-09-07 11:32:19 INFO-All the Operations are done successfully
+2021-09-07 11:32:19 INFO-Starting the print_list class 
+2021-09-07 11:32:19 INFO-Print list class is Finished
+2021-09-07 11:32:19 INFO-Starting the Write to list class 
+2021-09-07 11:32:19 INFO-Writing to the file is finished
+2021-09-07 11:32:19 INFO-The program is finished
